@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bespalov_Maksim_CV_lab_00", "Bespalov_Maksim_CV_lab_00\Bespalov_Maksim_CV_lab_00.vcxproj", "{75A7217F-CF55-4997-872E-51AD42848B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A7217F-CF55-4997-872E-51AD42848B71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75A7217F-CF55-4997-872E-51AD42848B71}.Debug|Win32.Build.0 = Debug|Win32
+		{75A7217F-CF55-4997-872E-51AD42848B71}.Release|Win32.ActiveCfg = Release|Win32
+		{75A7217F-CF55-4997-872E-51AD42848B71}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
